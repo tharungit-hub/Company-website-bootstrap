@@ -35,11 +35,9 @@ Execute the program
   </style>
 </head>
 <body>
-
 <div class="jumbotron text-center" style="margin-bottom:0">
   <h1>AIO allinone</h1>
 </div>
-
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -59,7 +57,6 @@ Execute the program
     </div>
   </div>
 </nav>
-
 <div class="container">
   <div class="row">
    
@@ -75,7 +72,6 @@ Execute the program
     </div>
   </div>
 </div>
-
 <div class="jumbotron text-center" style="margin-bottom:0">
   <p>Footer</p>
 </div>
